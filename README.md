@@ -1,7 +1,5 @@
 # STM32_PWMServoDriver Library
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-
 ## Overview
 
 `STM32_PWMServoDriver` is a library designed for controlling a 16-channel PWM & Servo driver using the PCA9685 for STM32 microcontrollers. The library leverages the STM32 HAL I2C functions to communicate with the PCA9685 via I2C, requiring only two pins. This driver is particularly useful for projects requiring multiple PWM signals such as controlling servos or LEDs.
