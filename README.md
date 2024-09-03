@@ -13,6 +13,8 @@
 - **Support for External Clock**: Optionally use an external clock for more precise control.
 - **Servo Control**: Simple functions to control servos using microseconds.
 
+For detailed information on all available methods, please refer to the source code documentation within STM32_PWMServoDriver.h.
+
 ## Getting Started
 
 ### Prerequisites
